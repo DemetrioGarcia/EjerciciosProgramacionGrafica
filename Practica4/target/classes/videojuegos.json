@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "salsa oscura",
+    "plataforma": "consola",
+    "precio": 23,
+    "disponible": true,
+    "listaGeneros": [
+      "accion",
+      "fantasia"
+    ]
+  },
+  {
+    "nombre": "rematch",
+    "plataforma": "consola",
+    "precio": 35,
+    "disponible": false,
+    "listaGeneros": [
+      "furbo",
+      "deporte"
+    ]
+  },
+  {
+    "nombre": "lolete",
+    "plataforma": "pc",
+    "precio": 23,
+    "disponible": true,
+    "listaGeneros": [
+      "tactico",
+      "estrategia"
+    ]
+  }
+]
